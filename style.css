@@ -1,0 +1,23 @@
+
+    
+
+.diva{
+body{background-color:grey;}
+#para{color: floralwhite; font-family: 'Courier New', Courier, monospace;}
+}
+h1{color: lightpink; font-size: 45px;}
+h1{font-style: italic;}
+#list{color: lightpink;font-size: 20px;font-style: italic;}
+h3{color: darkslategrey;}
+h3{font-style: oblique;}
+a{color: lightgray;}
+h2{font-size: 17px;color: lightpink;font-style: italic;}
+h1{text-decoration: underline;}
+.para {text-align: left;font-size:1.5em;color: lightgray;font-family: fantasy;}
+li{color:lightgray;font-style:italic;}
+#diva,#divc{position: relative;}
+#divb,#divd{position:static ;}
+#banner{
+    border: solid black;
+}
+
